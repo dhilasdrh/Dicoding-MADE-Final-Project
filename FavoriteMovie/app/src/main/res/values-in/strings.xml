@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite Movies</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="poster">Poster</string>
+    <string name="backdrop">Latar</string>
+    <string name="releaseDate">Tanggal Rilis</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="runtime">Durasi</string>
+    <string name="setting">Ubah Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="minutes">%1$s Menit</string>
+    <string name="retry">RETRY</string>
+    <string name="no_connection">Tidak Ada Koneksi Internet</string>
+    <string name="add_favorite">Ditambahkan ke Favorit</string>
+    <string name="delete_favorite">Dihapus dari Favorit</string>
+</resources>

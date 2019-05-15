@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Favorite Movies</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="poster">Poster</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="genre">Genres</string>
+    <string name="overview">Overview</string>
+    <string name="runtime">Runtime</string>
+    <string name="setting">Change Language</string>
+    <string name="favorite">Favorites</string>
+    <string name="minutes">%1$s Minutes</string>
+    <string name="retry">RETRY</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="add_favorite">Add to Favorites</string>
+    <string name="delete_favorite">Delete from Favorites</string>
+</resources>

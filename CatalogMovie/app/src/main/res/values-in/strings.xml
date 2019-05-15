@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="upcoming">Akan Tayang</string>
+    <string name="favorite">Favorit</string>
+    <string name="search">Pencarian</string>
+
+    <string name="movie_title">Judul Film</string>
+    <string name="poster">Poster</string>
+    <string name="backdrop">Latar</string>
+    <string name="releaseDate">Tanggal Rilis</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="runtime">Durasi</string>
+    <string name="minutes">%1$s Menit</string>
+
+    <string name="retry">MUAT ULANG</string>
+    <string name="no_result">Tidak Ada Hasil</string>
+    <string name="no_data">Belum Ada Data</string>
+    <string name="no_connection">Tidak Ada Koneksi Internet</string>
+    <string name="add_favorite">Ditambahkan ke Favorit</string>
+    <string name="delete_favorite">Dihapus dari Favorit</string>
+
+    <string name="settings">Pengaturan</string>
+    <string name="notification_setting">Notifikasi</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="daily_reminder_title">Notifikasi Harian</string>
+    <string name="daily_reminder_message">Katalog Film merindukanmu!</string>
+    <string name="new_movies_count">%1$s film baru</string>
+    <string name="release_reminder_message">%1$s telah rilis hari ini!</string>
+    <string name="no_new_movies">Tidak ada film yang rilis hari ini.</string>
+    <string name="widget_banner">FILM FAVORIT</string>
+    <string name="release_reminder_title">Film Terbaru</string>
+    <string name="reminder_showing_the_movie_that_released_today">Pengingat untuk kembali ke aplikasi</string>
+    <string name="daily_reminder_desc">Pengingat film yang rilis hari ini</string>
+
+</resources>
